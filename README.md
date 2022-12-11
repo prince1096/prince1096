@@ -36,8 +36,9 @@ Here are some ideas to get you started:
                                                                                                   
                                                                                                   
                                                                                                   
-## 🔥 Streak Stats
 
+
+<!-- streak stats                       -->
 <!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prince1096&theme=dark&border_radius=4.7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  -->
 
   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Stats  </h3>
